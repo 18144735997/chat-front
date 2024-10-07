@@ -1,0 +1,207 @@
+@font-face {
+  font-family: "ynDesign"; /* Project id 4590744 */
+  src: url('iconfont.woff2?t=1722843251819') format('woff2'),
+       url('iconfont.woff?t=1722843251819') format('woff'),
+       url('iconfont.ttf?t=1722843251819') format('truetype');
+}
+
+.ynDesign {
+  font-family: "ynDesign" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.yn-switchClose:before {
+  content: "\e600";
+}
+
+.yn-switchOpen:before {
+  content: "\e996";
+}
+
+.yn-kaiguan_kaiguan-guan:before {
+  content: "\e661";
+}
+
+.yn-picture:before {
+  content: "\eb98";
+}
+
+.yn-mouse:before {
+  content: "\eb97";
+}
+
+.yn-ellipse:before {
+  content: "\eb99";
+}
+
+.yn-eraser:before {
+  content: "\ea15";
+}
+
+.yn-cluster:before {
+  content: "\e821";
+}
+
+.yn-edit:before {
+  content: "\e83e";
+}
+
+.yn-diamond:before {
+  content: "\eb9a";
+}
+
+.yn-fullscreen:before {
+  content: "\e85a";
+}
+
+.yn-fullscreen-exit:before {
+  content: "\e85b";
+}
+
+.yn-arrowright:before {
+  content: "\e85e";
+}
+
+.yn-indent:before {
+  content: "\e86f";
+}
+
+.yn-outdent:before {
+  content: "\e870";
+}
+
+.yn-menu:before {
+  content: "\e871";
+}
+
+.yn-font:before {
+  content: "\e87d";
+}
+
+.yn-zoomout:before {
+  content: "\e986";
+}
+
+.yn-line:before {
+  content: "\e88b";
+}
+
+.yn-zoomin:before {
+  content: "\e98b";
+}
+
+.yn-rollback:before {
+  content: "\e88e";
+}
+
+.yn-drag:before {
+  content: "\e893";
+}
+
+.yn-desktop:before {
+  content: "\e894";
+}
+
+.yn-undo:before {
+  content: "\e799";
+}
+
+.yn-redo:before {
+  content: "\e79a";
+}
+
+.yn-dashboard:before {
+  content: "\e79e";
+}
+
+.yn-search:before {
+  content: "\e9a0";
+}
+
+.yn-logout:before {
+  content: "\e7a1";
+}
+
+.yn-setting:before {
+  content: "\e7a3";
+}
+
+.yn-save:before {
+  content: "\e7a8";
+}
+
+.yn-appstore:before {
+  content: "\e7aa";
+}
+
+.yn-clear:before {
+  content: "\e9ab";
+}
+
+.yn-detail:before {
+  content: "\e7b2";
+}
+
+.yn-rect:before {
+  content: "\e7bc";
+}
+
+.yn-folder:before {
+  content: "\e9cc";
+}
+
+.yn-user:before {
+  content: "\e7ce";
+}
+
+.yn-group:before {
+  content: "\e9ce";
+}
+
+.yn-team:before {
+  content: "\e7cf";
+}
+
+.yn-Report:before {
+  content: "\e9d0";
+}
+
+.yn-View:before {
+  content: "\e9d1";
+}
+
+.yn-ungroup:before {
+  content: "\e9d3";
+}
+
+.yn-file-text:before {
+  content: "\e7ed";
+}
+
+.yn-alert:before {
+  content: "\e7f7";
+}
+
+.yn-delete:before {
+  content: "\e7f8";
+}
+
+.yn-bell:before {
+  content: "\e7fc";
+}
+
+.yn-home:before {
+  content: "\e801";
+}
+
+.yn-lock:before {
+  content: "\e808";
+}
+
+.yn-select:before {
+  content: "\e81a";
+}
+
